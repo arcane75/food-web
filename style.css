@@ -76,3 +76,25 @@ div{
     display: flex;
     margin: 3%;
 }
+.recipie-title{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.one-third-width{
+    width: 33%;
+    box-shadow: 5px 5px 10px rgb(190, 190, 190);
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+
+}
+.rwidth{
+    width: 100%;
+}
+.recipies-makeup{
+    text-align: center;
+}
