@@ -98,3 +98,22 @@ div{
 .recipies-makeup{
     text-align: center;
 }
+.info{
+    display: flex;
+    box-shadow: 5px 5px 10px rgb(190, 190, 190);
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: lightblue;
+}
+.popular{
+    width: 33%;
+    text-align: center;
+}
+.p-text{
+    text-align: center;
+    padding-left: 100px;
+}
