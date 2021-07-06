@@ -1,0 +1,78 @@
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: cover;
+    height: 500px;
+}
+.recipies-section{
+    text-align: center;
+}
+.recipie-text{
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+#margin-bttm{
+    margin-bottom: 50px;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    text-align:justify;  
+}
+.abt{
+    padding-bottom: 40px;
+}
+#me{
+    margin: 0;
+    padding-top: 120px;
+    
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.burger-img{
+    padding-left: 50px;
+}
+.half-width-about{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 8%;
+}
+div{
+    display: block;
+}
+.healthy-food{
+    font-size:20px;
+    padding-bottom: 20px;
+}
+.half-width{
+    width: 50%;
+}
+
+.just-eat{
+    font-size: 60px;
+    font: bold;
+    padding-top: 150px;
+}
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 25px;
+    background-image: linear-gradient(lightsalmon ,rgb(233, 88, 62));
+    color: white;
+    font-weight: 500;
+}
+.orange-color{
+    color: orange;
+}
+
+.skip-diet{
+    display: flex;
+    margin: 3%;
+}
