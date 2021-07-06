@@ -103,11 +103,9 @@ div{
     box-shadow: 5px 5px 10px rgb(190, 190, 190);
     border-radius: 20px;
     padding-top: 20px;
-    padding-right: 20px;
-    padding-left: 20px;
-    margin-right: 80px;
+    margin-right: 90px;
     margin-left: 80px;
-    background-color: lightblue;
+    background-color: rgb(202, 224, 231);
 }
 .popular{
     width: 33%;
@@ -129,4 +127,37 @@ footer{
 .footer-text{
     text-align: center;
     color:whitesmoke;
+}
+.newsletter{
+    text-align: center;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    height: 220px;
+}
+.letter{
+    text-align: center;
+}
+.box{
+    color: rgb(144, 176, 218);
+    padding: 5px;
+    border-radius: 10px;
+    border: 5px solid;
+    width:20%;
+}
+.subs{
+    padding-top: 30px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color:rgb(9, 204, 230);
+}
+.submit-btn{
+        text-decoration: none;
+        background-color: gray;
+        padding: 10px 30px;
+        border-radius: 10px;
+        background-image: linear-gradient(rgb(95, 113, 124) ,rgb(34, 114, 168));
+        color: white;
+        font-weight: 500;
+    
 }
